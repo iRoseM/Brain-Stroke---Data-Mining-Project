@@ -12,3 +12,7 @@ https://www.kaggle.com/datasets/niranjanank/brain-stroke-data
 
 ###  Group Members:
 - Rose Mady    444200107
+- Layan Alnowaiser    444203011
+- Lana Albogami    444201031
+- Layan Aldbays    444200653
+- Munira    444200653
