@@ -6,6 +6,9 @@ Brain strokes are a leading cause of disability and death worldwide, significant
 ## Project Motivations: 
 Recently, the incidence of brain strokes has been on the rise, becoming increasingly common among individuals. This condition can lead to severe health complications, including death. In our project, we will study and analyze patients' data to identify possible factors and risks that contribute to brain strokes. By understanding these risk factors, we aim to help individuals take preventive measures by predicting the likelihood of experiencing a brain stroke.
 
+## Summarized Presentation:
+https://www.canva.com/design/DAGXaWDk-8g/ZJZ6CyqttSODBcZQjuiAkQ/edit?utm_content=DAGXaWDk-8g&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
+
 ###  Group Members:
 - Rose Mady    444200107
 - Layan Alnowaiser    444203011
