@@ -8,10 +8,3 @@ Recently, the incidence of brain strokes has been on the rise, becoming increasi
 
 ## Summarized Presentation:
 https://www.canva.com/design/DAGXaWDk-8g/ZJZ6CyqttSODBcZQjuiAkQ/edit?utm_content=DAGXaWDk-8g&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
-
-###  Group Members:
-- Rose Mady    444200107
-- Layan Alnowaiser    444203011
-- Lana Albogami    444201031
-- Layan Aldbays    444200653
-- Munira Alsaleem   444200653
