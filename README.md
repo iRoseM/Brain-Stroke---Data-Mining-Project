@@ -1,4 +1,4 @@
-# Brain Stroke DataMining Project
+# Brain Stroke Prediction Model
 
 ## Introduction:
 Brain strokes are a leading cause of disability and death worldwide, significantly impacting patients' lives. The early identification of risk factors is crucial in preventing strokes and improving outcomes. This project aims to apply data mining techniques to analyze a dataset of patient information related to brain strokes. By identifying patterns and key predictors, we seek to develop models that can effectively predict the likelihood of stroke, thereby assisting in early intervention and risk reduction strategies.
